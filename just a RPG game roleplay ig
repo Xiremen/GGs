@@ -1,0 +1,5 @@
+name = input("what is your name? ")
+print("Greetings Captain "+ name + ". We are the rebel force of this land. Rebelling for Freedom!!!")
+decision = input("Will you join us sir? ")
+print("I was lying")
+print("chutiya banaya")
